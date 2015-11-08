@@ -1,4 +1,4 @@
-# Implementation of classic arcade game Pong - Aditya Kamath
+# Implementation of classic arcade game Pong by Aditya Kamath
 
 import simplegui
 import random
